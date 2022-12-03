@@ -1,6 +1,6 @@
 # DataStructureClassDesigns
 
-* 1-13 (forgot QwQ
+* 1-13 (Already forgot... QwQ
 * 14 Huffman Codes
 * 14(Actually 15) Binary Search Tree
 * 15 Depth First Search & Breadth First Search
