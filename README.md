@@ -4,6 +4,7 @@
 * 1 randomly generate an array and reverse it
 * 2 Bubbl sort and merge two lists
 * 8 KMP string pattern match
+* 10 Fast Rotate
 * 14 Huffman Codes
 * 14(Actually 15) Binary Search Tree
 * 15 Depth First Search & Breadth First Search
