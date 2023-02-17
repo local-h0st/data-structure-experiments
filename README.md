@@ -13,3 +13,5 @@
 * 18(golang) Dijkstra Shortest Path
 * 19(golang) 2-way inserting sort
 * 20(golang) Shell Sorting
+* 21(golang) FastSort
+* 22(golang) HeapSort
